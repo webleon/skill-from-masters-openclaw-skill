@@ -2,6 +2,8 @@
 name: skill-from-masters-openclaw-skill
 description: 从大师学习 - 完整的 skill 创建系统。整合方法论搜索、GitHub 学习、文档提取、创建助手四大功能。
 model: qwen3.5-plus
+triggers:
+  - "方法论"
 ---
 
 # Skill from Masters - 从大师学习
